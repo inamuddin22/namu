@@ -1,0 +1,74 @@
+
+body{
+	width: 100%;
+}
+.sec1{padding-bottom:12%;
+	background-image:url(namu.jpg);
+	background-size: cover;
+ 	background-repeat: no-repeat;
+
+	
+}
+.kill{padding-top:2%;
+	display: flex;
+	color: white;
+	list-style: none;
+
+}
+ a{ color: white;
+	margin-left:7rem;
+	text-transform: capitalize;
+
+}
+
+span{
+	color:lightgreen;
+}
+h1{text-transform: capitalize;
+text-align: center;
+color: white;
+font-size: 3rem;}
+p{
+	font-size: 1.2rem;
+	text-align: center;
+	color:white;
+}
+.kuku{
+	margin-top: 10rem;
+}
+}
+nav{margin: 3rem;
+	
+}
+
+.btn:hover {
+    background-color: blue;
+    color: red;
+    border-color: blue;
+}
+
+.btn { padding: 0.7rem 0.9rem;
+    border-radius: 1.9rem;
+    border: 0.1rem solid;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    background-color: transparent;
+ 	margin-left:45%;
+}
+
+.sec2{padding-top:6rem;
+
+
+display: flex;}
+.i{
+	color: #29c8a2;
+	 border:1px solid grey;
+	 border-radius: 3rem;
+	 font-size: 1.5rem;
+	 padding:0.8rem;
+	
+}
+.i:hover{
+	background-color: pink;
+	color: black;
+}
